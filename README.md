@@ -68,6 +68,5 @@ To run the tests, run:
 ```bash
 pytest test_app.py -v
 
-```
 
 ---
