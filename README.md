@@ -54,7 +54,8 @@ python main.py
 
 ### Screenshots
 
-d:\Dated\Pictures\Screenshots\Screenshot 2026-07-03 015930.png d:\Dated\Pictures\Screenshots\Screenshot 2026-07-03 015835.png
+<img width="855" height="360" alt="Screenshot 2026-07-03 015835" src="https://github.com/user-attachments/assets/5d482fd3-7f89-4d4c-a9be-09924c41de4c" />
+<img width="1462" height="227" alt="Screenshot 2026-07-03 015930" src="https://github.com/user-attachments/assets/4a1723d7-7407-49c7-b84d-1beb69d1f6f7" />
 
 ---
 
