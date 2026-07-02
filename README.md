@@ -1,8 +1,8 @@
 # Python CLI Habit Tracker
 
-A lightweight, backend-focused Habit Tracking application built with Python. This app allows users to define daily and weekly habits, check them off, and track their longest streaks using an interactive Command Line Interface (CLI). 
+A backend-focused Habit Tracking application built with Python. This app allows users to define daily and weekly habits, check them off, and track their longest streaks using a CLI. 
 
-This project was developed using Object-Oriented Programming (OOP) for state management and functional programming (map, filter, reduce) for data analytics. Data is securely and locally stored using SQLite3.
+This was made using OOP for state management and functional programming for data analytics. Data is stored locally using SQLite3.
 
 ## Features
 * **Create, Edit, and Delete Habits:** Fully manage your daily or weekly routines.
@@ -13,19 +13,18 @@ This project was developed using Object-Oriented Programming (OOP) for state man
   * Discover your longest streak across all tracked habits.
 * **Persistent Storage:** Zero-configuration SQLite3 database.
 
----
 
 ## Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone <your-github-repo-url>
    cd <your-repo-folder>
 
 ```
 
-2. **Install requirements:**
-The app uses standard Python libraries, but you will need `pytest` to run the test suite.
+2. ****Install requirements:****
+The app uses standard Python libraries, but you'll need `pytest` to run the test.
 ```bash
 pip install pytest
 
@@ -46,7 +45,7 @@ python seed.py
 
 ## Usage
 
-To start the application and open the interactive main menu, run:
+To start the app and open the main menu, run:
 
 ```bash
 python main.py
@@ -61,9 +60,9 @@ d:\Dated\Pictures\Screenshots\Screenshot 2026-07-03 015930.png d:\Dated\Pictures
 
 ## Running the Unit Tests
 
-This project includes a comprehensive suite of Pytest unit tests covering the OOP models, database CRUD operations, analytics functions, and historical time-series streak validations.
+This project includes comprehensive Pytest unit tests covering the OOP models, database CRUD operations, analytics functions, and historical time-series streak validations.
 
-To run the tests, simply execute:
+To run the tests, run:
 
 ```bash
 pytest test_app.py -v
