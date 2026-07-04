@@ -7,7 +7,8 @@ This was made using OOP for state management and functional programming for data
 ## Features
 * **Create, Edit, and Delete Habits:** Fully manage your daily or weekly routines.
 * **Tracking:** Check off habits as you complete them. 
-* **Advanced Analytics:** * View all tracked habits.
+* **Advanced Analytics:**
+  * View all tracked habits.
   * Filter habits by periodicity (Daily vs. Weekly).
   * Calculate your longest continuous streak for a specific habit.
   * Discover your longest streak across all tracked habits.
